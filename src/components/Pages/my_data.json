@@ -1,0 +1,81 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "uniform_number": 2,
+      "country": "France",
+      "position": "DF",
+      "name": "William Saliba"
+    },
+    {
+      "id": "2",
+      "uniform_number": 3,
+      "country": "Scotland",
+      "position": "DF",
+      "name": "Kieran Tierney"
+    },
+    {
+      "id": "3",
+      "uniform_number": 4,
+      "country": "England",
+      "position": "DF",
+      "name": "Ben White"
+    },
+    {
+      "id": "4",
+      "uniform_number": 5,
+      "country": "Ghana",
+      "position": "MF",
+      "name": "Thomas Partey"
+    },
+    {
+      "id": "5",
+      "uniform_number": 6,
+      "country": "Brazil",
+      "position": "DF",
+      "name": "Gabriel Magalhães"
+    },
+    {
+      "id": "6",
+      "uniform_number": 7,
+      "country": "England",
+      "position": "FW",
+      "name": "Bukayo Saka"
+    },
+    {
+      "id": "7",
+      "uniform_number": 8,
+      "country": "Norway",
+      "position": "MF",
+      "name": "Martin Ødegaard"
+    },
+    {
+      "id": "8",
+      "uniform_number": 9,
+      "country": "Brazil",
+      "position": "FW",
+      "name": "Gabriel Jesus"
+    },
+    {
+      "id": "9",
+      "uniform_number": 11,
+      "country": "Brazil",
+      "position": "FW",
+      "name": "Gabriel Martinelli"
+    },
+    {
+      "id": "10",
+      "uniform_number": 12,
+      "country": "Brazil",
+      "position": "DF",
+      "name": "Jurrien Timber"
+    },
+    {
+      "id": "11",
+      "uniform_number": 15,
+      "country": "Poland",
+      "position": "DF",
+      "name": "Jakub Kiwior"
+    }
+  ]
+}
